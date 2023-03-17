@@ -1,4 +1,4 @@
-  ![image](https://user-images.githubusercontent.com/87586713/225867086-02208a2e-500a-4333-9cd5-9fc042649a5f.png)
+  ![image](https://user-images.githubusercontent.com/87586713/225868531-a169d811-deeb-4816-b8d5-0e1c0834ef34.png)
   <body>
     <h1>Stripe Payment Gateway Backend in Node.js</h1>
   
