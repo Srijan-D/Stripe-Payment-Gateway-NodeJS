@@ -1,5 +1,6 @@
-
+  <body>
     <h1>Stripe Payment Gateway Backend in Node.js</h1>
+  
 
 <p>This project provides a sample backend for processing payments using the Stripe Payment Gateway in Node.js. It includes sample code for creating a Stripe account, setting up a webhook, and processing payments using the Stripe API.</p>
 
