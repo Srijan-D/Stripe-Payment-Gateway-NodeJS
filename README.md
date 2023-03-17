@@ -1,12 +1,4 @@
 
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Stripe Payment Gateway Backend in Node.js</title>
-  </head>
-  <body>
     <h1>Stripe Payment Gateway Backend in Node.js</h1>
 less
 Copy code
