@@ -1,3 +1,4 @@
+  ![image](https://user-images.githubusercontent.com/87586713/225867086-02208a2e-500a-4333-9cd5-9fc042649a5f.png)
   <body>
     <h1>Stripe Payment Gateway Backend in Node.js</h1>
   
@@ -51,4 +52,8 @@ Copy code
 <h3>5. Run the server.</h3>
 
 <pre><code>npm start</code></pre>
+
+
+![image](https://user-images.githubusercontent.com/87586713/225868195-6ab7ceb2-7465-4ab1-b4d7-387ba1fc24da.png)
+
  
